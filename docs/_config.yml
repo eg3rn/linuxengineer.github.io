@@ -19,23 +19,16 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Linux Engineer
-description: >- # The place for documents relating to the YouTube channel Linux Engineer
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://linuxengineer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: >-# Description below:
+ Here you can find guides and documents for videos uploaded to the YouTube channel Linux Engineer.
+baseurl: "/linuxengineer.github.io" # the subpath of your site, e.g. /blog
+url: "eg3rn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
-
-defaults:
-  -
-    scope:
-      path: "" # an empty string here means all files in the project
-      type: "pages"
-    values:
-      layout: "default"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
