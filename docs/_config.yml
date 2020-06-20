@@ -23,6 +23,9 @@ description: >-# Description below:
  Here you can find guides and documents for videos uploaded to the YouTube channel Linux Engineer.
 baseurl: "/linuxengineer.github.io" # the subpath of your site, e.g. /blog
 url: "eg3rn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+google_analytics: UA-170153758-1
+show_excerpts: true
+youtube_username: channel/UCmzETR2NkTZNTn2CDoCNrEQ
 
 # Build settings
 theme: minima
