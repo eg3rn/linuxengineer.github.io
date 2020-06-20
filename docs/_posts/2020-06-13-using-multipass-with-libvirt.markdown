@@ -3,7 +3,8 @@ layout: post
 title:  "Multipass With Libvirt and Cloud-Init"
 ---
 Multipass is a lightweight Virtual Machine Manager created by Canonical that allows you to set up an Ubuntu mini-cloud on your machine.
-
+<iframe width="550" height="315" src="https://www.youtube.com/embed/P3yhrbksbZ4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+&nbsp;
 <h1>Getting started</h1>
 
 Get the newest packages available
